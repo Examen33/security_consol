@@ -7,7 +7,7 @@
 ## Как установить
 - Скачайте код
 ```sh
-[https://github.com/Examen33/security_consol.git](https://github.com/Examen33/security_consol.git)
+[https://github.com/Examen33/security_consol.git](https://github.com/Examen33/security_consol.git).
 ```
 - Создайте файл переменных окружения .env и заполните его следующими данными
 ```
