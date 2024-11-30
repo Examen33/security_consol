@@ -10,7 +10,7 @@
 https://github.com/Examen33/security_consol.git
 ```sh
 - Создайте файл переменных окружения .env и заполните его следующими данными
-```sh
+```
 SECRET_KEY = Ваш секретный ключ
 DB_PORT = Номер порта
 DB_NAME = Имя базы данных
