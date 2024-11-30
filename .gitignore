@@ -6,5 +6,7 @@
 .upm/
 # Distribution
 env/
+.env/
+*.env
 .replit/
 replit_zip_error_log/
