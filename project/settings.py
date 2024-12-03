@@ -1,7 +1,4 @@
 import os
-from logging import DEBUG
-
-from django.conf.global_settings import ALLOWED_HOSTS
 from environs import Env
 
 env = Env()
